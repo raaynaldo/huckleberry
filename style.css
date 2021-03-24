@@ -19,6 +19,7 @@ h3 {
 .max-width-wrapper {
   margin: 0 auto;
   width: 800px;
+  padding: 0 24px;
 }
 
 .intro-chunk {
