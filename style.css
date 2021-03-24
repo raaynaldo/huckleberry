@@ -15,6 +15,10 @@ h3 {
   margin: 0;
 }
 
+html {
+  font-size: 18px;
+}
+
 /* Add styles here! */
 .max-width-wrapper {
   margin: 0 auto;
@@ -29,6 +33,7 @@ h3 {
 
 .intro-chunk p {
   font-size: 1.25rem;
+  line-height: 1.4;
 }
 
 .intro-chunk strong {
